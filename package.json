@@ -10,7 +10,7 @@
     "tailwindcss": "^3.3.0",
     "clsx": "^1.2.1",
     "lucide-react": "^0.258.0",
-    "shadcn/ui": "*"
+    "shadcn/ui": "11.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
